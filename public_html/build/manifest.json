@@ -1,0 +1,22 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-3f918edb.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/lk.css": {
+    "file": "assets/lk-370df287.css",
+    "isEntry": true,
+    "src": "resources/css/lk.css"
+  },
+  "resources/css/photo-editor.css": {
+    "file": "assets/photo-editor-2ebdad34.css",
+    "isEntry": true,
+    "src": "resources/css/photo-editor.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-7840a376.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
